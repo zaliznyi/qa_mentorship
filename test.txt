@@ -1,5 +1,4 @@
 total 8
-drwxr-xr-x   5 azaliznyi  staff   160 Sep  2 16:17 .
 drwx------@ 51 azaliznyi  staff  1632 Sep  2 16:16 ..
 drwxr-xr-x  13 azaliznyi  staff   416 Sep  2 16:16 .git
 -rw-r--r--   1 azaliznyi  staff    15 Sep  2 16:16 README.md
